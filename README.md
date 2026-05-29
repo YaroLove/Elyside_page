@@ -1,5 +1,7 @@
 # Elyside — Premium Longevity Care Landing Page
 
+<img width="1392" height="662" alt="image" src="https://github.com/user-attachments/assets/9021d98e-5a40-4d0f-ad54-130b4265bc18" />
+
 ### 📌 Project Overview
 Elyside is a high-end personalized longevity care brand that focuses on data-driven health optimization and life extension. The goal of this project was to develop a premium, high-converting landing page to introduce their innovative services and capture high-quality leads for an exclusive pilot program. 
 
